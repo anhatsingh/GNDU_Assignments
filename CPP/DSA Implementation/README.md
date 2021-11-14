@@ -10,5 +10,5 @@ Time Taken : 20 mins
 1. Stack
 2. All Menus
 
-## Things NOT tested:
+## Things to be tested:
 1. Queue
