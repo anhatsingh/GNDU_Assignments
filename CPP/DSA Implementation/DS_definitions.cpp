@@ -43,8 +43,8 @@ class Stack{
 class Queue{
     private:        
         int que[1000];
-    public:
         int front, rear, max;
+    public:        
         Queue(int n): max(n-1), front(-1), rear(-1){
             for(int i = 0; i < n; i++){
                 que[i] = 0;
